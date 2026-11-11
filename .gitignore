@@ -1,0 +1,10 @@
+node_modules/
+build/
+out/
+spot/
+gates/
+character/*
+!character/README.md
+fonts/*
+!fonts/README.md
+spot_sheet.jpg
