@@ -8,3 +8,4 @@ character/*
 fonts/*
 !fonts/README.md
 spot_sheet.jpg
+*.log
